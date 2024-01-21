@@ -1,5 +1,8 @@
 # pandas-challenge
 In this assignment, I’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
+I used the provided starter code and made some additional changes besides adding the required coding. 
+- I rounded all percentages to show 2 decimal points to make the numbers quicker/ easier to read.
+- I also ran into an issue when grouping data into spending per student bins. Due to a foremating issue I had to add in additional coding to reformate the spending per student column to just numbers removing the currency formating. 
 
 
 # PyCity Schools Analysis
